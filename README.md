@@ -58,7 +58,7 @@ weather-hadoop-project/
 
 ## How to Use
 
-1. Run scripts in order from the `notebooks/` folder.
+1. Run scripts in order of steps (steps 1 to 6 will be mentioned in the file name).
 2. To regenerate the model:
    - Run: `step5_final_model_training.py`
    - Save using: `step6_save_model_joblib.py`
